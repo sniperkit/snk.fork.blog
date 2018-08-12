@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /**
  * @fileoverview Demo that helps explain what t-SNE is doing.
  * In particular, shows how various geometries translate to a 2D map,

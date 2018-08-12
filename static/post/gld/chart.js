@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 (function() {
     const diameter = 600; // max size of the bubbles
     const color    = d3.scaleOrdinal(d3.schemeCategory20b); // color category

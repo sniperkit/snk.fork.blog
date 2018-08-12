@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 const memory = new WebAssembly.Memory({ initial: 256, maximum: 256 });
 const env = {
     'abortStackOverflow': _ => { throw new Error('overflow'); },

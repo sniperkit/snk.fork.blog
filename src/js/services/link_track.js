@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /* eslint-env browser */
 import $ from 'jquery';
 

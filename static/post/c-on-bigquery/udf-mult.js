@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 function intdiv(row, emit) {
     emit({ d: row.x / row.y, m: row.x % row.y });
 }

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 const fs = require('fs');
 
 const memory = new WebAssembly.Memory({ initial: 256, maximum: 256 });

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 function sum(row, emit) {
     const memory = new WebAssembly.Memory({ initial: 256, maximum: 256 });
     const env = {

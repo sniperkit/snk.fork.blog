@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 branches: [master, staging, release/*]
 
 pipeline:

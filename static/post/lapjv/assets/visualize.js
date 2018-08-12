@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 if(typeof require != "undefined") {
  // hack for loading from generator
  var d3 = require('./d3.min.js')

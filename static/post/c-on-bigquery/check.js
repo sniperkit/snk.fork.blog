@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 function checkAssembly(row, emit) {
     emit({ b: WebAssembly != undefined });
 }

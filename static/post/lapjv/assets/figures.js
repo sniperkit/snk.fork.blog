@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 Configurations and utility functions for figures
 */
 if(typeof require != "undefined") {
